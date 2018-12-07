@@ -1,0 +1,5 @@
+wechat:
+  corpId: ww181e76b5c58ec638
+  agentid: 1000002
+  secret: V9b-LY5oAK6FKJ9-0EI5EhTDM-zTiQQZW_xrXDKtovs
+  authServiceUrl: http://work.app.yuchai.com/wechat/getUserInfo
